@@ -3,14 +3,11 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
-        "main.blocks",
-        "main.ts"
+        "ps2ctl.ts"
     ],
     "testFiles": [
         "test.ts"
